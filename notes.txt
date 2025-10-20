@@ -17,7 +17,7 @@ conda create -p venv python=3.11 -y
 conda activate "D:\Python Projects\6-RAG_on_Docs\venv"
 
 git add .
-git commit -m "commit-2"
+git commit -m "commit-3"
 git push -u origin main
 
 --------------------------------------------------------------
