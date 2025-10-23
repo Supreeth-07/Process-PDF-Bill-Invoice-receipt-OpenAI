@@ -1,0 +1,9 @@
+pdf_to_md_app/
+│
+├── app/
+│   ├── main.py
+│   ├── converter_service.py
+│   ├── __init__.py
+│
+├── requirements.txt
+└── README.md
