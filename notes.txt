@@ -13,12 +13,17 @@ git push -u origin main
 
 .gitignore
 
+
 conda create -p venv python=3.11 -y 
 conda activate "D:\Python Projects\6-RAG_on_Docs\venv"
 
+
 git add .
-git commit -m "app-1 start"
+git commit -m "app-1 start2"
 git push -u origin main
+
+
+uvicorn app.main:app --reload
 
 --------------------------------------------------------------
 
