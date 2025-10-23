@@ -65,7 +65,9 @@ async def extract_table(
     """
     try:
         df = extract_tables_as_dataframe(file_path, pages, flavor)
-        return {"rows": df.to_dict(orient="records")}
+        #return {"rows": df.to_dict(orient="records")} # uncomment in Prod
+        return str({"rows": df.to_dict(orient="records")})  # uncomment to view in api ; comment in Prod
+    
     except FileNotFoundError as e:
         raise HTTPException(status_code=404, detail=str(e))
     except ValueError as e:
