@@ -1,5 +1,8 @@
 pypdf
-
+fastapi
+uvicorn
+docling
+python-multipart
 
 
 

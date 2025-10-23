@@ -84,6 +84,13 @@ Total Taxes
 
 1,85,660.01
 
+
+
+
+
+
+
+
 Amount in Words: INR One Lakh Eighty Five Thousand Six Hundred Sixty Rupees and One Paise Only
 
 &lt;unknown&gt;
@@ -160,11 +167,14 @@ Pay By date
 
 17-MAR-2025
 
+
+
 ## Summary Of Charges
 
 ## Bharti Airtel Ltd
 
 <!-- image -->
+
 
 ## Terms &amp; Conditions
 
