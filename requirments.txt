@@ -3,8 +3,8 @@ fastapi
 uvicorn
 docling
 python-multipart
-
-
+camelot-py[cv]
+pandas
 
 
 

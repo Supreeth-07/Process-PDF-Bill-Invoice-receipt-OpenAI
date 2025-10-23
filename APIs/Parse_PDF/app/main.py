@@ -22,7 +22,7 @@
 #     except Exception as e:
 #         raise HTTPException(status_code=500, detail=str(e))
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from pydantic import BaseModel
 from .converter_service import convert_pdf_to_markdown_from_path
 
@@ -49,3 +49,27 @@ async def convert_pdf(request: FilePathRequest):
         raise HTTPException(status_code=400, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+# ----------- New Table Extraction Endpoint -----------
+
+from .table_extractor import extract_tables_as_dataframe
+
+@app.post("/extract_table")
+async def extract_table(
+    file_path: str,
+    pages: str = Query("1", description="Page numbers to extract (e.g., '1', '1-3', 'all')"),
+    flavor: str = Query("lattice", description="Extraction method: 'lattice' or 'stream'")
+):
+    """
+    Extract tables from a PDF file and return them as JSON.
+    """
+    try:
+        df = extract_tables_as_dataframe(file_path, pages, flavor)
+        return {"rows": df.to_dict(orient="records")}
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
