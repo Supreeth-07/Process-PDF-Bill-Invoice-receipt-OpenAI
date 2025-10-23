@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-docling
-camelot-py[cv]
-pandas
-python-multipart
