@@ -1,1 +1,102 @@
-"D:\\Python Projects\\6-RAG_on_Docs\\Data\\HDFC-Bill\\FBBL3325B57458 2.pdf"
+AGI Cargo, LLC 9130 South Dadeland Blvd Suite 1801 Miami, FL 33156 Tax ID 26-4291364
+
+Bill To:
+
+ATLAS AIR CARGO BHM
+
+## INVOICE
+
+| Date       | Invoice Number   |
+|------------|------------------|
+| 04/30/2025 | CINV-100-105909  |
+
+| Payment Terms   | Due Date   |
+|-----------------|------------|
+| Net 30          | 05/30/2025 |
+
+Remit To:
+
+AGI Cargo, LLC 9130 South Dadeland Blvd Suite 1801 Miami, FL 33156 United States of America +1 305-740-3252
+
+Description: 5Y BHM RAMP HANDLING APRIL 2025 Page 1 of 1
+
+| Purchase Order Number   | From Date   | To Date    | Cost Center           | Customer ID   |
+|-------------------------|-------------|------------|-----------------------|---------------|
+|                         | 04/01/2025  | 04/30/2025 | 89-001 BHM 1910 CARGO | CUST-01784    |
+
+Quantity Sales Item Description Contract Line Memo Rate Amount
+
+0 Ramp Half Turn 3100 0.00 4 Ramp Full Turn 5200 20,800.00 4 Crew Services - Transport CREW TRANSPORTATION 85 340.00 7 GPU Service GPU SERVICE 150 1,050.00 4 Water Service LAVATORY SERVICE 120 480.00 4 Lavatory Service WATER SERVCIE 175 700.00
+
+| Net Amount Tax Code Tax Total Invoice Amount   | 23,370.00 BHM Concession Fees (8%) 1,869.60 USD 25,239.60   |
+|------------------------------------------------|-------------------------------------------------------------|
+
+Due to COVID-19, we are only accepting ACH or Wire Transfer payments.
+
+AGI Wire Instructions
+
+Account Name:
+
+AGI Cargo, LLC
+
+Account #
+
+Bank Name:
+
+8147946104
+
+PNC Bank
+
+Bank Address:
+
+500 First Avenue, Pittsburgh, PA 15219 USA
+
+Domestic Incoming Wire ABA Routing: 043000096
+
+Bank ACH Routing
+
+International Incoming Wire Swift
+
+031207607
+
+PNCCUS33
+
+ERVICE
+
+WATER SERVICE
+
+<!-- image -->
+
+| WorkOrderRefId                                    | CustomerName   | TurnOperation Positions InboundFlightNumber InboundTailNumber OutboundFlightNumber OutboundTailNumber InboundBlockInTime OutboundBlockOutTime Gate   | TurnOperation Positions InboundFlightNumber InboundTailNumber OutboundFlightNumber OutboundTailNumber InboundBlockInTime OutboundBlockOutTime Gate   | TurnOperation Positions InboundFlightNumber InboundTailNumber OutboundFlightNumber OutboundTailNumber InboundBlockInTime OutboundBlockOutTime Gate   | TurnOperation Positions InboundFlightNumber InboundTailNumber OutboundFlightNumber OutboundTailNumber InboundBlockInTime OutboundBlockOutTime Gate   | TurnOperation Positions InboundFlightNumber InboundTailNumber OutboundFlightNumber OutboundTailNumber InboundBlockInTime OutboundBlockOutTime Gate   | TurnOperation Positions InboundFlightNumber InboundTailNumber OutboundFlightNumber OutboundTailNumber InboundBlockInTime OutboundBlockOutTime Gate   | TurnOperation Positions InboundFlightNumber InboundTailNumber OutboundFlightNumber OutboundTailNumber InboundBlockInTime OutboundBlockOutTime Gate   |   GateTime Full |   GateTime Full |   GateTime Full |   GateTime Full | GateTime Full   | GateTime Full   | GateTime Full   | GateTime Full   |   GateTime Full |   GateTime Full |
+|---------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| BHM-5Y7481/5Y7481-250414-971360 ATLASAIRCARGOBHM  | CustomerName   | Full_turn 78                                                                                                                                         | 5Y7481                                                                                                                                               | N862GT 5Y7481                                                                                                                                        | N862GT                                                                                                                                               | 4/7/2025 13:45                                                                                                                                       | 4/7/2025 17:02                                                                                                                                       | BHM-1 3                                                                                                                                              |               1 |               0 |               0 |               1 | 0               |                 | 0               | 1               |               1 |               1 |
+| BHM-5Y7481/5Y7481-250414-971377 ATLASAIRCARGOBHM  | Full_turn      | 76                                                                                                                                                   | 5Y7481                                                                                                                                               | N862GT 5Y7481                                                                                                                                        | N862GT                                                                                                                                               | 4/13/2025 13:45                                                                                                                                      | 4/13/2025 21:12                                                                                                                                      | BHM-1 7                                                                                                                                              |               1 |               0 |               0 |               1 | 3               | 3               |                 | 1               |               1 |               1 |
+| BHM-5Y7481/5Y7481-250429-1031725 ATLASAIRCARGOBHM | Full_turn      | 69                                                                                                                                                   | 5Y7481                                                                                                                                               | N851GT 5Y7481                                                                                                                                        | N851GT                                                                                                                                               | 4/20/2025 16:09                                                                                                                                      | 4/20/2025 21:00                                                                                                                                      | BHM-1 5                                                                                                                                              |               1 |               0 |               0 |               1 | 1               | 1               |                 | 1               |               1 |               1 |
+| BHM-5Y7481/5Y7481-250502-1072457 ATLASAIRCARGOBHM | Full_turn      | 72                                                                                                                                                   | 5Y7481                                                                                                                                               | N862GT 5Y7481                                                                                                                                        | N862GT                                                                                                                                               | 4/27/2025 14:32                                                                                                                                      | 4/27/2025 21:35                                                                                                                                      | BHM-1 7                                                                                                                                              |               1 |               0 |               0 |               1 | 3               | 3               | 1               |                 |               1 |               1 |
+|                                                   |                |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      | Total:                                                                                                                                               |               4 |               0 |               0 |               4 |                 | 7               | 7               | 4               |               4 |               4 |
+
+<!-- image -->
+
+The Datetimes in this report are using the timezone: UTC -05:00:00
+
+<!-- image -->
+
+<!-- image -->
+
+The Datetimes in this report are using the timezone: UTC -05:00:00
+
+<!-- image -->
+
+Alliance Ground International 2025
+
+<!-- image -->
+
+The Datetimes in this report are using the timezone: UTC -05:00:00
+
+<!-- image -->
+
+<!-- image -->
+
+The Datetimes in this report are using the timezone: UTC -05:00:00
+
+<!-- image -->

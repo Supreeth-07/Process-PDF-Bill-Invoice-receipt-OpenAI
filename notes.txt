@@ -19,13 +19,14 @@ conda activate "D:\Python Projects\6-RAG_on_Docs\venv"
 
 
 git add .
-git commit -m "app-1 end"
+git commit -m "app-1 end-restore-1"
 git push -u origin main
 
 
 uvicorn app.main:app --reload
 
 01.
+conda activate "D:\Python Projects\6-RAG_on_Docs\venv"
 cd "D:\Python Projects\6-RAG_on_Docs\APIs\Parse_PDF"
 uvicorn app.main:app --reload
 
